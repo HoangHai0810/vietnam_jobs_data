@@ -1,0 +1,78 @@
+
+Page 1 Crawling Statistics:
+- Start Time: 2024-11-06 09:53:47
+- End Time: 2024-11-06 09:54:08
+- Duration: 20.86 seconds
+- Jobs Found: 50
+- Average Time per Job: 0.42 seconds
+
+2024-11-06 09:54:08.289768
+--------------------------------------------------
+
+Page 2 Crawling Statistics:
+- Start Time: 2024-11-06 09:54:08
+- End Time: 2024-11-06 09:54:16
+- Duration: 8.04 seconds
+- Jobs Found: 50
+- Average Time per Job: 0.16 seconds
+
+2024-11-06 09:54:16.389597
+--------------------------------------------------
+
+Page 3 Crawling Statistics:
+- Start Time: 2024-11-06 09:54:16
+- End Time: 2024-11-06 09:54:26
+- Duration: 10.53 seconds
+- Jobs Found: 50
+- Average Time per Job: 0.21 seconds
+
+2024-11-06 09:54:26.959697
+--------------------------------------------------
+
+Page 4 Crawling Statistics:
+- Start Time: 2024-11-06 09:54:26
+- End Time: 2024-11-06 09:54:34
+- Duration: 7.08 seconds
+- Jobs Found: 50
+- Average Time per Job: 0.14 seconds
+
+2024-11-06 09:54:34.074339
+--------------------------------------------------
+
+Page 5 Crawling Statistics:
+- Start Time: 2024-11-06 09:54:34
+- End Time: 2024-11-06 09:54:41
+- Duration: 7.13 seconds
+- Jobs Found: 50
+- Average Time per Job: 0.14 seconds
+
+2024-11-06 09:54:41.239746
+--------------------------------------------------
+
+Final Crawling Statistics:
+------------------------
+Page 1:
+- Duration: 20.86 seconds
+- Jobs Found: 50
+Page 2:
+- Duration: 8.04 seconds
+- Jobs Found: 50
+Page 3:
+- Duration: 10.53 seconds
+- Jobs Found: 50
+Page 4:
+- Duration: 7.08 seconds
+- Jobs Found: 50
+Page 5:
+- Duration: 7.13 seconds
+- Jobs Found: 50
+
+Overall Statistics:
+- Total Pages Crawled: 5
+- Total Duration: 53.63 seconds
+- Total Jobs Found: 250
+- Average Time per Page: 10.73 seconds
+- Average Time per Job: 0.21 seconds
+
+2024-11-06 09:54:41.390533
+--------------------------------------------------

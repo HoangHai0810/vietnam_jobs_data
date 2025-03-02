@@ -1,0 +1,16 @@
+default: job_project
+
+job_project:
+  target: mart
+  outputs:
+    mart:
+      type: clickhouse
+      schema: dbjobs
+      host: localhost
+      port: 8123
+      user: default
+      password: ''
+      secure: False
+
+
+    

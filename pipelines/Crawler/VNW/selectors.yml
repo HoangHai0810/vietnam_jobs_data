@@ -1,0 +1,4 @@
+job_shelf:
+  container: "main div[class='block-job-list']"
+  thumnail: "a[class='img_job_card']"
+  job_url: "a"

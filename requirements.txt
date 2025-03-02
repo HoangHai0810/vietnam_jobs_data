@@ -1,0 +1,7 @@
+selenium
+pandas
+numpy
+time
+datetime
+argparse
+scrapy
